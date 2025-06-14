@@ -1,28 +1,20 @@
 # 🧮 Basic Python Calculator
 
-This is a simple command-line calculator written in Python. It allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
-
----
+This is a simple command-line calculator built using Python. It supports basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
 ## 🚀 Features
+- Basic operations: +, -, *, /
+- User-friendly prompts
+- Handles invalid inputs and division by zero
 
-- Handles operations: `+`, `-`, `*`, `/`
-- Gracefully handles division by zero
-- Beginner-friendly and easy to understand
-- Runs entirely in the terminal
+## 📦 How to Use
+1. Run the script in a Python environment.
+2. Input two numbers and an operation.
+3. Get the result instantly.
 
----
+## 👤 Author
+**NickCillor**  
+[GitHub](https://github.com/NickCillor)
 
-## 📦 How to Run
-
-1. Make sure Python is installed.
-2. Save the script as `Calculator.py`.
-3. Run it using:
-
-```bash
-python Calculator.py
-```
-
-Author:
-Nick Cillor
-https://github.com/NickCillor
+## 🏷️ Tags
+`Python` `Beginner Project` `Calculator` `CLI Tool`
