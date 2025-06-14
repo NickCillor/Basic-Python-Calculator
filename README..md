@@ -21,3 +21,7 @@ This is a simple command-line calculator written in Python. It allows users to p
 
 ```bash
 python Calculator.py
+
+Author:
+Nick Cillor
+https://github.com/NickCillor
